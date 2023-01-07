@@ -14,7 +14,6 @@ My demo video [Software Demo Video](https://youtu.be/3Tf3DkkQ0aw)
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Visual Studio Code](https://code.visualstudio.com/docs)
 * [Git](https://git-scm.com/doc)
 * [GitHub](https://github.com/)
